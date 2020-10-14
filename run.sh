@@ -1,0 +1,1 @@
+docker run -i --name drill -p 8047:8047 -t nickdanil/apache-drill /bin/bash
